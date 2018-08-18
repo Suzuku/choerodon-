@@ -1,0 +1,33 @@
+.banner-main
+{
+    background-image: url('../../assets/home-banner.jpg') ;
+    background-position: center;
+    color: #ffffff;
+    height: 220px;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: 100% 100%;
+    width:100%
+}
+
+.banner-title
+{
+    position: absolute;
+    top: 40px;
+    left:170px;
+    font-size: 24px;
+    color: #ffffff;
+   
+
+}
+
+.text-desc {
+    position: absolute;
+    top: 90px;
+    left:170px;
+    max-width: 600px;
+    font-size: 14px;
+    
+    color: #ffffff;
+  }

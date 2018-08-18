@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.top-div
+{
+ 
+    background-color: #3F51B5;
+    display: flex;
+    flex-direction: row;
+    width:100%;
+}
+
+.cloud
+{
+    background-color: #303F9F ; 
+    padding:10px;
+    margin-right: 10px;
+    font-size: 16px;
+    color: #ffffff;
+    width:300px;
+}

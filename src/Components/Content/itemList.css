@@ -1,0 +1,49 @@
+.assign
+{
+    margin-top: 20px;
+}
+
+
+.list-title {
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.65);
+    line-height: 20px;
+    margin-bottom: 12px;
+  }
+  
+  .group {
+    display: flex;
+  }
+  
+  .card {
+    background: #ffffff;
+    box-shadow: 0 1px 3px -2px rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14),
+      0 2px 1px -1px rgba(0, 0, 0, 0.12);
+    border-radius: 2px;
+    min-width: 250px;
+    max-width: 250px;
+    height: 206px;
+    margin-right: 16px;
+    box-sizing: border-box;
+    padding: 20px;
+    padding-bottom: 25px;
+  }
+  
+  .icon {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .cardTitle {
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 16px;
+    margin-top: 10px;
+  }
+  
+  .list-content {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.65);
+    text-align: left;
+    line-height: 20px;
+  }

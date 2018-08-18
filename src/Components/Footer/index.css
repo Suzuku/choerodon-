@@ -1,0 +1,29 @@
+.footer
+{
+    background-color: #F5F5F5;
+    height: 200px;
+    border: 1px solid #D3D3D3;
+   position: relative;
+}
+
+.link
+{
+position: absolute;
+top:50px;
+right: 350px;
+}
+
+.interact
+{
+    position: absolute;
+    top:50px;
+    right: 200px;
+}
+
+.a-text
+{
+  text-decoration:'none';
+  font-size:'13px';
+  color:#000000 ;
+  margin-top: 10px;
+}
